@@ -1,5 +1,8 @@
 # Publications
 
+Link to google scholar: https://scholar.google.com/citations?hl=en&user=wHfVFjoAAAAJ
+
+
 **Journal Publications**
 
 • Afifah, F., Guo, Z., Abdel-Aty, M., 2023. System-level impacts of en-route information sharing con-
